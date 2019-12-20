@@ -1,0 +1,6 @@
+# Referenced at /home/leandro/AndroidStudioProjects/search_cep/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/leandro/AndroidStudioProjects/search_cep/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:24
+-keep class cep.search.br.search_cep.MainActivity { <init>(); }
+# Referenced at /home/leandro/AndroidStudioProjects/search_cep/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }
